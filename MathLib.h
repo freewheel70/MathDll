@@ -1,5 +1,5 @@
 #pragma once
-// MathLibrary.h - Contains declarations of math functions
+// MathLib.h - Contains declarations of math functions
 #pragma once
 
 #ifdef MATHLIBRARY_EXPORTS
